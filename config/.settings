@@ -1,0 +1,17 @@
+{
+    "username": "kjp-msp@codefriar.com", 
+    "project_name": "Madrona StarterPack", 
+    "namespace": "", 
+    "metadata_container": "1dci0000000UtOxAAK", 
+    "environment": "production", 
+    "id": "CVA2OET6SQSC2RWII44G1O8BK37A1XSS", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}
